@@ -1,4 +1,4 @@
-<h1 align="center">BoraCodar - Desafio 09</h1>
+<h1 align="center">BoraCodar - Desafio 09 - Conversor de moedas</h1>
 
 <p align="center">
   <a alt="HTML5">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   </a>
   <a alt="Figma">
-     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -23,12 +23,12 @@
 
 <br>
 <p align="center">
-  <img alt="Imagem do projeto." src=".github/preview09.jpg" width="800px">
+  <img alt="Imagem do projeto." src=".github/preview09.jpg" width="80%">
 </p>
 
 <h4 align="center">
   
-  [GitHub Pages](https://gabrielcenteiofreitas.github.io/estudos-rocketseat-boracodar09-conversor_de_moedas/)
+  [Ver projeto](https://gabrielcenteiofreitas.github.io/estudos-rocketseat-boracodar09-conversor_de_moedas/)
 </h4>
 
 <br>
@@ -47,6 +47,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto de um Conversor de Moedas desenvolvido a partir do Desafio 09 do evento "BoraCodar" da Rocketseat com o objetivo de treinar e aprimorar habilidades.
+
+Caso queira ver todos os desafios do evento clique [aqui](https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar).
 
 ## 🔖 Layout
 
